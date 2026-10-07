@@ -48,6 +48,6 @@ The AI Discovery & Readiness Assessment is a complimentary two-stage engagement:
 
 There is no charge and no obligation. No monetary value claim has been approved for publication.
 
-Schedule the assessment: https://bookings.cloud.microsoft/bookwithme/user/3de99a485d0547d0a9e62d064e2c0e3a@oneitpro.com/meetingtype/Svb7XVdrMkC6_vpS6eDYeg2
+Schedule the assessment: https://bookings.cloud.microsoft/bookwithme/user/3de99a485d0547d0a9e62d064e2c0e3a@oneitpro.com/meetingtype/Svb7XVdrMkC6_vpS6eDYeg2?bookingcode=eed6b08e-15d5-42b4-a3df-a84bab3fc435&anonymous&ismsaljsauthenabled&ep=mlink
 
 Contact and company information: https://www.oneitpro.com/#contact
