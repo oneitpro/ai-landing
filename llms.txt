@@ -1,6 +1,6 @@
 # One I.T. Pro — AI Consulting and Automation
 
-> One I.T. Pro helps professional services businesses evaluate how AI fits their work, establish responsible guidance, and implement practical solutions.
+> One I.T. Pro helps businesses evaluate how AI fits their work, establish responsible guidance, and implement practical solutions.
 
 Canonical website: https://ai.oneitpro.com/
 Detailed AI resource: https://ai.oneitpro.com/ai-consulting.md

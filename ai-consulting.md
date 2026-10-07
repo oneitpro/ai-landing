@@ -1,6 +1,6 @@
 # AI that solves real problems in your business
 
-One I.T. Pro helps professional services businesses evaluate how AI fits their work, establish responsible guidance, and implement practical solutions.
+One I.T. Pro helps businesses evaluate how AI fits their work, establish responsible guidance, and implement practical solutions.
 
 ## Who the service is for
 
