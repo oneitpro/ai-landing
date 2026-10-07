@@ -57,5 +57,4 @@ For each opportunity, capture:
 
 ## Close
 
-Explain that One I.T. Pro will prepare the complimentary AI Usage & Policy Review and practical recommendations. Do not imply that every discovery produces a paid project.
-
+Explain that the conversation is stage one of the AI Discovery & Readiness Assessment. One I.T. Pro will then review relevant business processes and AI usage, including appropriate audits, before providing written practical recommendations and AI-use and governance policy guidance. Do not imply that every discovery produces a paid project or that all assessment work occurs during the initial conversation.

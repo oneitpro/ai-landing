@@ -15,7 +15,7 @@
 
 ## Conversion architecture
 
-Primary: approved Microsoft Bookings meeting type for **Free AI Discovery & Policy Review**.  
+Primary: approved Microsoft Bookings meeting type for **AI Discovery & Readiness Assessment**.
 Secondary: existing One I.T. Pro Chatwoot Website inbox.
 
 Do not add a contact form, n8n workflow, alternate inbox, or browser-exposed internal endpoint.
@@ -45,6 +45,8 @@ The site contains:
 
 Machines should be able to determine the company, audience, service area, AI services, governance position, use cases, free offer, and conversion methods from public HTML and resources.
 
+The assessment is a two-stage engagement. The initial conversation does not imply that all assessment work is completed during that meeting. Do not add a monetary value claim until One I.T. Pro confirms and approves a verifiable amount.
+
 ## External dependencies
 
 - official logo: `https://assets.oneitpro.com/one-it-pro-logo-full.svg`
@@ -65,4 +67,3 @@ No credentials, internal APIs, Notifuse, SES, or n8n details are exposed.
 - Chatwoot opens the existing inbox once
 - keyboard navigation and focus states work
 - `/llms.txt` and `/ai-consulting.md` publicly readable
-

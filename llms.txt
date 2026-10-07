@@ -1,6 +1,6 @@
 # One I.T. Pro — AI Consulting and Automation
 
-> One I.T. Pro helps businesses understand current AI usage, establish responsible AI guidance, identify practical opportunities, and implement AI solutions and automation.
+> One I.T. Pro helps professional services businesses evaluate how AI fits their work, establish responsible guidance, and implement practical solutions.
 
 Canonical website: https://ai.oneitpro.com/
 Detailed AI resource: https://ai.oneitpro.com/ai-consulting.md
@@ -8,21 +8,30 @@ Company website: https://www.oneitpro.com/
 Existing-customer support: https://support.oneitpro.com/
 Technology for law firms: https://law.oneitpro.com/
 
+## Audience and service area
+
+- Professional services businesses
+- Based in Chicagoland · Serving the Greater Midwest
+
+## Methodology
+
+- Qualify
+- Design
+- Implement
+- Measure
+
 ## Primary service areas
 
-- AI discovery
-- AI usage and data governance
-- AI usage policy guidance
-- AI assistants and agents
-- Workflow and communication automation
-- Document processing and information extraction
-- Internal knowledge assistants
-- Microsoft 365 and Copilot solutions
-- Business-system integrations
+- AI discovery and readiness assessment
+- approved AI tools and acceptable use
+- company and client data and access
+- human oversight and accountability
+- AI agents and workflow automation
+- business-system integrations
+- practical AI-enabled processes
 
-## Free starting point
+## Complimentary starting point
 
-One I.T. Pro offers a Free AI Discovery & Policy Review: a 30-minute initial conversation, online or at the customer's office when appropriate, followed by a complimentary AI Usage & Policy Review and practical recommendations. There is no charge and no obligation.
+One I.T. Pro offers an AI Discovery & Readiness Assessment. The two-stage engagement begins with an initial discovery conversation about the business problem, current AI use, goals, risks, and opportunities. One I.T. Pro then reviews relevant business processes and AI usage, including appropriate audits. Written, practical recommendations and AI-use and governance policy guidance follow the assessment. There is no charge and no obligation. No monetary value claim has been approved for publication.
 
 Schedule: https://bookings.cloud.microsoft/bookwithme/user/3de99a485d0547d0a9e62d064e2c0e3a@oneitpro.com/meetingtype/Svb7XVdrMkC6_vpS6eDYeg2
-

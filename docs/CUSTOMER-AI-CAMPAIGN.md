@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Invite existing One I.T. Pro customers to a **Free AI Discovery & Policy Review** so One I.T. Pro can understand current AI usage, governance concerns, and practical opportunities for automation or implementation.
+Invite existing One I.T. Pro customers to an **AI Discovery & Readiness Assessment** so One I.T. Pro can understand current AI usage, governance concerns, and practical opportunities for automation or implementation.
 
 This is a customer-relationship campaign, not cold prospecting. Do not mix its audience with Prospeo, `saleslawfirms`, or law-firm acquisition cohorts.
 
@@ -12,9 +12,10 @@ This is a customer-relationship campaign, not cold prospecting. Do not mix its a
 
 ## Offer
 
-- 30-minute initial conversation
+- initial discovery conversation to identify the business problem, current AI use, goals, risks, and opportunities
 - Microsoft Teams/online or at the customer's office when appropriate
-- complimentary AI Usage & Policy Review
+- follow-up review of relevant business processes and AI usage, including appropriate audits
+- written practical recommendations and AI-use and governance policy guidance
 - practical recommendations
 - no charge and no obligation
 
@@ -89,4 +90,3 @@ The approved reminder and follow-up sources are:
 - [`copy/BOOKINGS-FOLLOW-UP.md`](../copy/BOOKINGS-FOLLOW-UP.md)
 
 Record these in the campaign but do not modify Bookings without explicit authorization.
-

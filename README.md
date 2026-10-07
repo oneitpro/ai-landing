@@ -23,7 +23,7 @@ Approved brand assets are packaged in `assets/`, including the official transpar
 
 ## Conversion paths
 
-- Primary: Microsoft Bookings — Free AI Discovery & Policy Review
+- Primary: Microsoft Bookings — AI Discovery & Readiness Assessment
 - Secondary: the existing One I.T. Pro Chatwoot Website inbox
 - No contact form and no browser-exposed internal webhook
 
@@ -43,6 +43,7 @@ Then open `http://127.0.0.1:4174/`.
 
 - Confirm `ai.oneitpro.com` is attached to the Cloudflare Pages project.
 - Add `ai.oneitpro.com` to the existing Chatwoot Website inbox allowed domains.
-- Validate the Bookings meeting name is **Free AI Discovery & Policy Review**.
+- Validate the Bookings meeting name is **AI Discovery & Readiness Assessment**.
+- Do not publish a monetary value claim until One I.T. Pro confirms and approves a verifiable amount.
 - Test desktop, tablet, mobile, keyboard navigation, metadata and structured data.
 - Confirm the page remains indexable and returns no `noindex` directive.

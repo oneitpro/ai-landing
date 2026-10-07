@@ -1,49 +1,53 @@
-# Practical AI for real business problems
+# AI that solves real problems in your business
 
-One I.T. Pro helps businesses understand how AI is already being used, identify opportunities to improve everyday work, establish responsible AI policies, and implement solutions that deliver measurable value.
+One I.T. Pro helps professional services businesses evaluate how AI fits their work, establish responsible guidance, and implement practical solutions.
 
 ## Who the service is for
 
-The service is for existing One I.T. Pro customers and other businesses evaluating or already using tools such as ChatGPT, Microsoft Copilot, Gemini, and other AI services. One I.T. Pro is based in Chicagoland and serves the Greater Midwest, with online meetings available.
+The service is for professional services businesses evaluating or already using tools such as ChatGPT, Microsoft Copilot, Gemini, and other AI services. Online meetings are available.
 
-## AI Discovery
+**Based in Chicagoland · Serving the Greater Midwest**
 
-One I.T. Pro talks with management and the employees doing the work to identify:
+## One I.T. Pro methodology
 
-- AI tools already in use
-- current employee use cases
-- repetitive work and manual processes
-- information bottlenecks
-- customer-service challenges
-- opportunities worth investigating
+One I.T. Pro uses a four-stage approach:
 
-## AI Usage and Data Governance
+1. **Qualify** — Identify the business problem, current AI use, goals, risks, and opportunities.
+2. **Design** — Define the practical solution, governance boundaries, and implementation plan.
+3. **Implement** — Put the approved solution into practice.
+4. **Measure** — Review results against the intended business outcome and identify practical improvements.
 
-One I.T. Pro provides technology and governance guidance covering approved AI tools, company and customer data, confidential information, acceptable use, human review, employee responsibilities, AI-generated content, security, and privacy.
+We start with the business problem and determine the most practical solution.
 
-The goal is not to prevent employees from using AI. It is to help them use it responsibly. This guidance is not legal advice and does not guarantee regulatory compliance.
+## AI usage and data governance
 
-## AI Solutions and Automation
+One I.T. Pro provides technology and governance guidance focused on:
 
-When discovery identifies a worthwhile business case, One I.T. Pro can design and implement:
+- approved AI tools and acceptable use
+- company and client data and access
+- human oversight and accountability
 
-- AI assistants and internal knowledge assistants
-- customer-service agents and AI reception
-- document processing, classification, summarization, comparison, and extraction
-- email and communication automation
-- workflow automation
-- Microsoft 365 and Copilot solutions
-- integrations with appropriate business systems
+This guidance is not legal advice and does not guarantee regulatory compliance.
 
-Not every business problem requires AI. One I.T. Pro begins with the problem and may recommend an AI solution, automation, integration, process improvement, existing software, or a simpler non-AI approach.
+## AI solutions and automation
 
-## Free AI Discovery & Policy Review
+When qualification identifies an appropriate business case, One I.T. Pro can design and implement:
 
-The complimentary starting point is a 30-minute initial conversation held online or, when appropriate, at the customer's office. The discussion covers current AI usage, tools, business problems, repetitive processes, data and security concerns, and opportunities worth investigating.
+- AI agents and workflow automation
+- business-system integrations
+- practical AI-enabled processes
 
-The customer receives an AI Usage & Policy Review and practical recommendations. There is no charge and no obligation.
+AI is not automatically the answer. The assessment identifies the most practical next step for the business problem.
 
-Schedule a session: https://bookings.cloud.microsoft/bookwithme/user/3de99a485d0547d0a9e62d064e2c0e3a@oneitpro.com/meetingtype/Svb7XVdrMkC6_vpS6eDYeg2
+## AI Discovery & Readiness Assessment
+
+The AI Discovery & Readiness Assessment is a complimentary two-stage engagement:
+
+1. An initial discovery conversation identifies the business problem, current AI use, goals, risks, and opportunities. It may be held online or, when appropriate, at the customer's office.
+2. One I.T. Pro reviews relevant business processes and AI usage, including appropriate audits. Written, practical recommendations and AI-use and governance policy guidance follow the assessment.
+
+There is no charge and no obligation. No monetary value claim has been approved for publication.
+
+Schedule the assessment: https://bookings.cloud.microsoft/bookwithme/user/3de99a485d0547d0a9e62d064e2c0e3a@oneitpro.com/meetingtype/Svb7XVdrMkC6_vpS6eDYeg2
 
 Contact and company information: https://www.oneitpro.com/#contact
-
