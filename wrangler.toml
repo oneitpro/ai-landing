@@ -1,3 +1,2 @@
-name = "oneitpro-ai-landing"
-pages_build_output_dir = "."
-
+name = "oneitpro-ai-site"
+pages_build_output_dir = ".pages-output"

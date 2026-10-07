@@ -4,20 +4,20 @@ Independent static website for `https://ai.oneitpro.com/`.
 
 ## Deployment
 
-This project follows the existing One I.T. Pro GitHub → Cloudflare Pages convention:
+This project deploys from the `oneitpro/ai-landing` GitHub repository to Cloudflare Pages in the One I.T. Pro account. Pushes to `main` trigger production deployments.
 
 | Setting | Value |
 |---|---|
 | Production branch | `main` |
 | Framework preset | None |
-| Build command | Leave blank |
-| Build output directory | `/` |
+| Build command | `mkdir -p .pages-output && cp index.html styles.css script.js llms.txt ai-consulting.md _headers _redirects .pages-output/ && cp -R assets .pages-output/` |
+| Build output directory | `.pages-output` |
 | Root directory | `/` |
 
-Cloudflare Pages project name: `oneitpro-ai-landing`  
+Cloudflare Pages project name: `oneitpro-ai-site`
 Custom domain: `ai.oneitpro.com`
 
-The site is plain HTML, CSS and JavaScript. It requires no package installation or build process.
+The site is plain HTML, CSS and JavaScript. The build command copies only public assets into the deployment directory; `copy/` and `docs/` are not published. No package installation is required.
 
 Approved brand assets are packaged in `assets/`, including the official transparent SVG, standalone mark, and approved 1200×630 social-share image.
 
